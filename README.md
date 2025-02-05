@@ -66,15 +66,45 @@ The book is available here: [http://mng.bz/KeP0](http://mng.bz/KeP0)
 * Master XGBoost
 * Apply deep learning to tabular data
 * Deploy models locally and in the cloud
-* Pipelines to train and maintain your models
+* Build pipelines to train and maintain your models
 
 <HR>
 
 **About the book**
 
 Machine learning can accelerate everyday business chores like account reconciliation, demand forecasting, and customer service automation—not to mention more exotic challenges like fraud detection, predictive maintenance, and personalized marketing. This book shows you how to unlock the vital information stored in spreadsheets, ledgers, databases, and other tabular data sources using gradient boosting, deep learning, and generative AI.
-<HR>
 
+<EM>Machine Learning for Tabular Data</EM> delivers practical ML techniques to upgrade every stage of the business data analysis pipeline. In it, you’ll explore examples like using XGBoost and Keras to predict short-term rental prices, deploying a local ML model with Python and Flask, and streamlining workflows using large language models (LLMs). Along the way, you’ll learn to make your models both more powerful and more explainable
+<HR>
+From the cover:<BR>
+“Explores the exciting potential
+of generative AI in tabular data
+analysis, showcasing its
+applications in synthetic data
+generation, feature engineering,
+and model interpretation.
+—Gus Martins, Google”<BR>
+“An invaluable, hands-on
+resource to learn practical
+machine learning techniques
+without getting lost in overly
+ complex theory.
+—Dmitry Efi mov, Amazon
+”<BR>
+“Equips you with the
+knowledge to tackle any tabular
+data problem. Luca and Ryan
+have done a great job covering
+ this rich fi eld.
+—Bojan Tunguz, Tabul.AI
+”<BR>
+“Helps you unlock the full
+potential of machine learning
+for tabular data, enabling you
+to choose the best approach for
+your scenario.
+—Shotaro Ishihara, Nikkei Inc.”<BR>
+<HR>
 **About the reader**
 
 For readers experienced with Python and the basics of machine learning.
@@ -82,5 +112,5 @@ For readers experienced with Python and the basics of machine learning.
 
 **About the authors**
 
-<B>Mark Ryan</B> is the AI Lead of the Developer Knowledge Platform at Google and has extensive experience in relational databases and applications of AI.<BR>
-<B>Luca Massaron</B> is a 3-time Kaggle Grandmaster with over a decade of data science experience and a Google Developer Expert (GDE) in machine learning.
+<B>Mark Ryan</B> is the AI Lead of the Developer Knowledge Platform at Google.<BR>
+<B>Luca Massaron</B> is a 3-time Kaggle Grandmaster and a Google Developer Expert (GDE) in machine learning and AI. He has published 18 books so far.
