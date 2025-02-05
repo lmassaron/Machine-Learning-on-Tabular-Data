@@ -39,7 +39,7 @@ ISBN 9781633438545  504 pages printed in black & white <BR>
       <br><br>
       <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/appendix_b/appendix_b.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
-        Appendix B
+        <BR>Appendix B
       </a>
     </td>
     <td style="border: none; padding: 10px; text-align: center; width: 50%;">
