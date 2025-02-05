@@ -51,7 +51,9 @@ ISBN 9781633438545  504 pages printed in black & white <BR>
 </table>
 
 
-The book is available here: http://mng.bz/jPlP
+The book is available here: [http://mng.bz/jPlP](http://mng.bz/KeP0)
+<BR>
+<B>!!! To celebrate the release of your book, we would like to offer you a launch discount code PBryan2, valid through February 19, which offers your network and contacts 45% off your book in all formats !!!</B>
 
 <HR>
 <B>Business runs on tabular data in databases, spreadsheets, and logs. Crunch that data using deep learning, gradient boosting, and other machine learning techniques.</B>
