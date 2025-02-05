@@ -77,28 +77,28 @@ Machine learning can accelerate everyday business chores like account reconcilia
 <EM>Machine Learning for Tabular Data</EM> delivers practical ML techniques to upgrade every stage of the business data analysis pipeline. In it, you’ll explore examples like using XGBoost and Keras to predict short-term rental prices, deploying a local ML model with Python and Flask, and streamlining workflows using large language models (LLMs). Along the way, you’ll learn to make your models both more powerful and more explainable
 <HR>
 From the cover:<BR>
-* “Explores the exciting potential
+<P>“Explores the exciting potential
 of generative AI in tabular data
 analysis, showcasing its
 applications in synthetic data
 generation, feature engineering,
 and model interpretation.
 —Gus Martins, Google”
-* “An invaluable, hands-on
+<P>“An invaluable, hands-on
 resource to learn practical
 machine learning techniques
 without getting lost in overly
  complex theory.
 —Dmitry Efi mov, Amazon
 ”
-* “Equips you with the
+<P>“Equips you with the
 knowledge to tackle any tabular
 data problem. Luca and Ryan
 have done a great job covering
  this rich field.
 —Bojan Tunguz, Tabul.AI
 ”
-* “Helps you unlock the full
+<P>“Helps you unlock the full
 potential of machine learning
 for tabular data, enabling you
 to choose the best approach for
