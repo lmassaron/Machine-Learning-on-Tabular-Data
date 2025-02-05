@@ -14,27 +14,27 @@ ISBN 9781633438545  504 pages printed in black & white <BR>
       <p><br></p>
       <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_02/chapter_02.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
-        Chapter 2
+        <BR>Chapter 2
       </a>
       <br><br>
       <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_04/chapter_04.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
-        Chapter 4
+        <BR>Chapter 4
       </a>
       <br><br>
       <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_05/chapter_05.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
-        Chapter 5
+        <BR>Chapter 5
       </a>
       <br><br>
       <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_06/chapter_06.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
-        Chapter 6
+        <BR>Chapter 6
       </a>
       <br><br>
       <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/chapter_07/chapter_07.ipynb">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Badge" height="20" />
-        Chapter 7
+        <BR>Chapter 7
       </a>
       <br><br>
       <a href="https://colab.research.google.com/github/lmassaron/ml_4_tabular_code/blob/main/appendix_b/appendix_b.ipynb">
