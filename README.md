@@ -105,6 +105,7 @@ to choose the best approach for
 your scenario.
 —Shotaro Ishihara, Nikkei Inc.”<BR>
 <HR>
+  
 **About the reader**
 
 For readers experienced with Python and the basics of machine learning.
