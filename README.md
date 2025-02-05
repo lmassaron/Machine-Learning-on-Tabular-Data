@@ -51,7 +51,7 @@ ISBN 9781633438545  504 pages printed in black & white <BR>
 </table>
 
 
-The book is available here: [http://mng.bz/jPlP](http://mng.bz/KeP0)
+The book is available here: [(http://mng.bz/KeP0)](http://mng.bz/KeP0)
 <BR>
 <B>!!! To celebrate the release of your book, we would like to offer you a launch discount code PBryan2, valid through February 19, which offers your network and contacts 45% off your book in all formats !!!</B>
 
