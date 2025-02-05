@@ -1,5 +1,5 @@
 # Machine Learning for Tabular Data 
-<BR><B>XGBoost, Deep Learning, and AI</B>
+## XGBoost, Deep Learning, and AI
 <BR>
 
 [Mark Ryan](https://www.linkedin.com/in/mark-ryan-31826743/) and [Luca Massaron](https://www.linkedin.com/in/lmassaron/)<BR>
@@ -61,10 +61,10 @@ The book is available here: http://mng.bz/jPlP
 
 <EM>Machine Learning for Tabular Data</EM> will teach you how to:
 
-● Master XGBoost 
-● Apply deep learning to tabular data 
-● Deploy models locally and in the cloud 
-● Pipelines to train and maintain your models
+* Master XGBoost
+* Apply deep learning to tabular data
+* Deploy models locally and in the cloud
+* Pipelines to train and maintain your models
 
 <HR>
 
